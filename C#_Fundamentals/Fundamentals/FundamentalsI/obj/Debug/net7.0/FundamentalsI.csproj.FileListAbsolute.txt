@@ -1,0 +1,15 @@
+C:\Users\HarahshehFatima\OneDrive - AXSOS Academy GmbH\Desktop\csharp\.NET\C#\Fundemntals\FundamentalsI\bin\Debug\net7.0\FundamentalsI.exe
+C:\Users\HarahshehFatima\OneDrive - AXSOS Academy GmbH\Desktop\csharp\.NET\C#\Fundemntals\FundamentalsI\bin\Debug\net7.0\FundamentalsI.deps.json
+C:\Users\HarahshehFatima\OneDrive - AXSOS Academy GmbH\Desktop\csharp\.NET\C#\Fundemntals\FundamentalsI\bin\Debug\net7.0\FundamentalsI.runtimeconfig.json
+C:\Users\HarahshehFatima\OneDrive - AXSOS Academy GmbH\Desktop\csharp\.NET\C#\Fundemntals\FundamentalsI\bin\Debug\net7.0\FundamentalsI.dll
+C:\Users\HarahshehFatima\OneDrive - AXSOS Academy GmbH\Desktop\csharp\.NET\C#\Fundemntals\FundamentalsI\bin\Debug\net7.0\FundamentalsI.pdb
+C:\Users\HarahshehFatima\OneDrive - AXSOS Academy GmbH\Desktop\csharp\.NET\C#\Fundemntals\FundamentalsI\obj\Debug\net7.0\FundamentalsI.csproj.AssemblyReference.cache
+C:\Users\HarahshehFatima\OneDrive - AXSOS Academy GmbH\Desktop\csharp\.NET\C#\Fundemntals\FundamentalsI\obj\Debug\net7.0\FundamentalsI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HarahshehFatima\OneDrive - AXSOS Academy GmbH\Desktop\csharp\.NET\C#\Fundemntals\FundamentalsI\obj\Debug\net7.0\FundamentalsI.AssemblyInfoInputs.cache
+C:\Users\HarahshehFatima\OneDrive - AXSOS Academy GmbH\Desktop\csharp\.NET\C#\Fundemntals\FundamentalsI\obj\Debug\net7.0\FundamentalsI.AssemblyInfo.cs
+C:\Users\HarahshehFatima\OneDrive - AXSOS Academy GmbH\Desktop\csharp\.NET\C#\Fundemntals\FundamentalsI\obj\Debug\net7.0\FundamentalsI.csproj.CoreCompileInputs.cache
+C:\Users\HarahshehFatima\OneDrive - AXSOS Academy GmbH\Desktop\csharp\.NET\C#\Fundemntals\FundamentalsI\obj\Debug\net7.0\FundamentalsI.dll
+C:\Users\HarahshehFatima\OneDrive - AXSOS Academy GmbH\Desktop\csharp\.NET\C#\Fundemntals\FundamentalsI\obj\Debug\net7.0\refint\FundamentalsI.dll
+C:\Users\HarahshehFatima\OneDrive - AXSOS Academy GmbH\Desktop\csharp\.NET\C#\Fundemntals\FundamentalsI\obj\Debug\net7.0\FundamentalsI.pdb
+C:\Users\HarahshehFatima\OneDrive - AXSOS Academy GmbH\Desktop\csharp\.NET\C#\Fundemntals\FundamentalsI\obj\Debug\net7.0\FundamentalsI.genruntimeconfig.cache
+C:\Users\HarahshehFatima\OneDrive - AXSOS Academy GmbH\Desktop\csharp\.NET\C#\Fundemntals\FundamentalsI\obj\Debug\net7.0\ref\FundamentalsI.dll
