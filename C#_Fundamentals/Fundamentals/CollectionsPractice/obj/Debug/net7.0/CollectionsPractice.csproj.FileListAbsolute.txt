@@ -1,0 +1,15 @@
+C:\Users\HarahshehFatima\OneDrive - AXSOS Academy GmbH\Desktop\csharp\.NET\C#_Fundamentals\Fundamentals\CollectionsPractice\bin\Debug\net7.0\CollectionsPractice.exe
+C:\Users\HarahshehFatima\OneDrive - AXSOS Academy GmbH\Desktop\csharp\.NET\C#_Fundamentals\Fundamentals\CollectionsPractice\bin\Debug\net7.0\CollectionsPractice.deps.json
+C:\Users\HarahshehFatima\OneDrive - AXSOS Academy GmbH\Desktop\csharp\.NET\C#_Fundamentals\Fundamentals\CollectionsPractice\bin\Debug\net7.0\CollectionsPractice.runtimeconfig.json
+C:\Users\HarahshehFatima\OneDrive - AXSOS Academy GmbH\Desktop\csharp\.NET\C#_Fundamentals\Fundamentals\CollectionsPractice\bin\Debug\net7.0\CollectionsPractice.dll
+C:\Users\HarahshehFatima\OneDrive - AXSOS Academy GmbH\Desktop\csharp\.NET\C#_Fundamentals\Fundamentals\CollectionsPractice\bin\Debug\net7.0\CollectionsPractice.pdb
+C:\Users\HarahshehFatima\OneDrive - AXSOS Academy GmbH\Desktop\csharp\.NET\C#_Fundamentals\Fundamentals\CollectionsPractice\obj\Debug\net7.0\CollectionsPractice.csproj.AssemblyReference.cache
+C:\Users\HarahshehFatima\OneDrive - AXSOS Academy GmbH\Desktop\csharp\.NET\C#_Fundamentals\Fundamentals\CollectionsPractice\obj\Debug\net7.0\CollectionsPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HarahshehFatima\OneDrive - AXSOS Academy GmbH\Desktop\csharp\.NET\C#_Fundamentals\Fundamentals\CollectionsPractice\obj\Debug\net7.0\CollectionsPractice.AssemblyInfoInputs.cache
+C:\Users\HarahshehFatima\OneDrive - AXSOS Academy GmbH\Desktop\csharp\.NET\C#_Fundamentals\Fundamentals\CollectionsPractice\obj\Debug\net7.0\CollectionsPractice.AssemblyInfo.cs
+C:\Users\HarahshehFatima\OneDrive - AXSOS Academy GmbH\Desktop\csharp\.NET\C#_Fundamentals\Fundamentals\CollectionsPractice\obj\Debug\net7.0\CollectionsPractice.csproj.CoreCompileInputs.cache
+C:\Users\HarahshehFatima\OneDrive - AXSOS Academy GmbH\Desktop\csharp\.NET\C#_Fundamentals\Fundamentals\CollectionsPractice\obj\Debug\net7.0\CollectionsPractice.dll
+C:\Users\HarahshehFatima\OneDrive - AXSOS Academy GmbH\Desktop\csharp\.NET\C#_Fundamentals\Fundamentals\CollectionsPractice\obj\Debug\net7.0\refint\CollectionsPractice.dll
+C:\Users\HarahshehFatima\OneDrive - AXSOS Academy GmbH\Desktop\csharp\.NET\C#_Fundamentals\Fundamentals\CollectionsPractice\obj\Debug\net7.0\CollectionsPractice.pdb
+C:\Users\HarahshehFatima\OneDrive - AXSOS Academy GmbH\Desktop\csharp\.NET\C#_Fundamentals\Fundamentals\CollectionsPractice\obj\Debug\net7.0\CollectionsPractice.genruntimeconfig.cache
+C:\Users\HarahshehFatima\OneDrive - AXSOS Academy GmbH\Desktop\csharp\.NET\C#_Fundamentals\Fundamentals\CollectionsPractice\obj\Debug\net7.0\ref\CollectionsPractice.dll
