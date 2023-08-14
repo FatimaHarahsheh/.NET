@@ -1,0 +1,15 @@
+C:\Users\HarahshehFatima\OneDrive - AXSOS Academy GmbH\Desktop\csharp\.NET\C#_Fundamentals\Fundamentals\Basic13\bin\Debug\net7.0\Basic13.exe
+C:\Users\HarahshehFatima\OneDrive - AXSOS Academy GmbH\Desktop\csharp\.NET\C#_Fundamentals\Fundamentals\Basic13\bin\Debug\net7.0\Basic13.deps.json
+C:\Users\HarahshehFatima\OneDrive - AXSOS Academy GmbH\Desktop\csharp\.NET\C#_Fundamentals\Fundamentals\Basic13\bin\Debug\net7.0\Basic13.runtimeconfig.json
+C:\Users\HarahshehFatima\OneDrive - AXSOS Academy GmbH\Desktop\csharp\.NET\C#_Fundamentals\Fundamentals\Basic13\bin\Debug\net7.0\Basic13.dll
+C:\Users\HarahshehFatima\OneDrive - AXSOS Academy GmbH\Desktop\csharp\.NET\C#_Fundamentals\Fundamentals\Basic13\bin\Debug\net7.0\Basic13.pdb
+C:\Users\HarahshehFatima\OneDrive - AXSOS Academy GmbH\Desktop\csharp\.NET\C#_Fundamentals\Fundamentals\Basic13\obj\Debug\net7.0\Basic13.csproj.AssemblyReference.cache
+C:\Users\HarahshehFatima\OneDrive - AXSOS Academy GmbH\Desktop\csharp\.NET\C#_Fundamentals\Fundamentals\Basic13\obj\Debug\net7.0\Basic13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HarahshehFatima\OneDrive - AXSOS Academy GmbH\Desktop\csharp\.NET\C#_Fundamentals\Fundamentals\Basic13\obj\Debug\net7.0\Basic13.AssemblyInfoInputs.cache
+C:\Users\HarahshehFatima\OneDrive - AXSOS Academy GmbH\Desktop\csharp\.NET\C#_Fundamentals\Fundamentals\Basic13\obj\Debug\net7.0\Basic13.AssemblyInfo.cs
+C:\Users\HarahshehFatima\OneDrive - AXSOS Academy GmbH\Desktop\csharp\.NET\C#_Fundamentals\Fundamentals\Basic13\obj\Debug\net7.0\Basic13.csproj.CoreCompileInputs.cache
+C:\Users\HarahshehFatima\OneDrive - AXSOS Academy GmbH\Desktop\csharp\.NET\C#_Fundamentals\Fundamentals\Basic13\obj\Debug\net7.0\Basic13.dll
+C:\Users\HarahshehFatima\OneDrive - AXSOS Academy GmbH\Desktop\csharp\.NET\C#_Fundamentals\Fundamentals\Basic13\obj\Debug\net7.0\refint\Basic13.dll
+C:\Users\HarahshehFatima\OneDrive - AXSOS Academy GmbH\Desktop\csharp\.NET\C#_Fundamentals\Fundamentals\Basic13\obj\Debug\net7.0\Basic13.pdb
+C:\Users\HarahshehFatima\OneDrive - AXSOS Academy GmbH\Desktop\csharp\.NET\C#_Fundamentals\Fundamentals\Basic13\obj\Debug\net7.0\Basic13.genruntimeconfig.cache
+C:\Users\HarahshehFatima\OneDrive - AXSOS Academy GmbH\Desktop\csharp\.NET\C#_Fundamentals\Fundamentals\Basic13\obj\Debug\net7.0\ref\Basic13.dll
